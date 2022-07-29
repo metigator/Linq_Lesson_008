@@ -17,7 +17,7 @@ namespace LINQTut08
         private static void RunGroupByExample()
         {
             Console.WriteLine();
-            Console.WriteLine("+++++++++++++++++++++++");
+            Console.WriteLine("++++++++++''''+++++++++++++");
             Console.WriteLine("GroupBy (Method Syntax");
             Console.WriteLine("+++++++++++++++++++++++");
             Console.WriteLine();
